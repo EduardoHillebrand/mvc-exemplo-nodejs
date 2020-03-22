@@ -1,0 +1,10 @@
+{
+	"id":"familia-aderiu-quarentena",
+    "pergunta":"As pessoas que vivem em sua residência aderiram a quarentena?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Sim" , "value": 0 },
+        {"option": "Não" , "value": 0 }
+    ]
+}

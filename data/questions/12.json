@@ -1,0 +1,10 @@
+{
+	"id":"ambiente-aglomerado",
+    "pergunta":"Esteve em ambientes com aglomerado de pessoas (mais de 10) nos últimos 15 dias?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Não" , "value": 0 },
+        {"option": "Sim" , "value": 1 }
+    ]
+}

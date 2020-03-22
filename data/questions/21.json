@@ -1,0 +1,10 @@
+{
+	"id":"aderi-quarentena",
+    "pergunta":"Você aderiu a quarentena?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Sim" , "value": 0 },
+        {"option": "Não" , "value": 0 }
+    ]
+}

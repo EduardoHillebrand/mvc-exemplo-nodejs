@@ -1,0 +1,10 @@
+{
+	"id":"familia-grupo-risco",
+    "pergunta":"Alguma delas pertence ao grupo de risco?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Sim" , "value": 0 },
+        {"option": "Não" , "value": 0 }
+    ]
+}

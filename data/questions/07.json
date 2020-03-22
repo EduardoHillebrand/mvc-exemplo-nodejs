@@ -1,0 +1,10 @@
+{
+	"id":"utilizou-transporte",
+    "pergunta":"Você utilizou transportes públicos nos últimos 15 dias?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Sim" , "value": 0 },
+        {"option": "Não" , "value": 0 }
+    ]
+}

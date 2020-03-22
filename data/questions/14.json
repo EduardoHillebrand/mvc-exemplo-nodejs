@@ -1,0 +1,10 @@
+{
+	"id":"sua-profissao",
+    "pergunta":"Sua profissão requer contato com muitas pessoas diariamente?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Não" , "value": 0 },
+        {"option": "Sim" , "value": 1 }
+    ]
+}

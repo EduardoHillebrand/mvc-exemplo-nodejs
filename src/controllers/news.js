@@ -1,8 +1,9 @@
 module.exports.index = function(application, req, res) {
   var newsModel = new application.src.models.news();
+  var questionsModel = new application.src.models.questions();
 
-  newsModel.getLastNews(function(err, result) {
-    res.render("news/index", {news : result});
+  questionsModel.getQuestions(function(err, result) {
+    res.render("questions/index", {news : result});
   });
 }
 

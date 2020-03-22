@@ -1,0 +1,10 @@
+{
+	"id":"outro-pais",
+    "pergunta":"Esteve em outro país ou teve contato com uma pessoa que viajou nos últimos 15 dias?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Sim" , "value": 0 },
+        {"option": "Não" , "value": 0 }
+    ]
+}

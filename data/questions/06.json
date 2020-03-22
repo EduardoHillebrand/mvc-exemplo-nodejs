@@ -1,0 +1,15 @@
+{
+    "id":"sua-condicao",
+    "pergunta":"Possui alguma condição médica pré-existente?",
+    "tipo":"multiplo",
+    "calc":true,
+    "respostas":[
+        {"option": "diabetes"						, "value": 0.1633 },
+        {"option": "hipertensão"					, "value": 0.1342 },
+        {"option": "doenças respiratórias"			, "value": 0.1409 },
+        {"option": "insuficiência renal crônica"	, "value": 0.1119 },
+        {"option": "doença cardiovascular"			, "value": 0.2349 },
+        {"option": "sobrepeso"						, "value": 0.1253 },
+        {"option": "obesidade"						, "value": 0.0895 }
+    ]
+}

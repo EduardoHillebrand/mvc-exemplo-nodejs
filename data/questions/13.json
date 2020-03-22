@@ -1,0 +1,10 @@
+{
+	"id":"profissional-saude",
+    "pergunta":" É profissional da área da saúde?",
+    "tipo":"unico",
+    "calc":false,
+    "respostas":[
+        {"option": "Não" , "value": 0 },
+        {"option": "Sim" , "value": 1 }
+    ]
+}

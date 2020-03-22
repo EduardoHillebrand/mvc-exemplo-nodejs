@@ -1,0 +1,18 @@
+{
+    "id":"seus-sintomas",
+    "pergunta":"Quais desses sintomas você está sentindo? ",
+    "tipo":"multiplo",
+    "calc":false,
+    "respostas":[
+        {"option": "cansaço"					, "value": 0 },
+        {"option": "congestão nasal"			, "value": 0 },
+        {"option": "corrimento nasal (coriza)"	, "value": 0 },
+        {"option": "dificuldade para respirar"	, "value": 0 },
+        {"option": "dor de cabeça"				, "value": 0 },
+        {"option": "dor de garganta "			, "value": 0 },
+        {"option": "dores pelo corpo"			, "value": 0 },
+        {"option": "febre"						, "value": 0 },
+        {"option": "mal estar geral"			, "value": 0 },
+        {"option": "tosse"						, "value": 0 }
+    ]
+}
